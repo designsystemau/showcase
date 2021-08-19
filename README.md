@@ -2,7 +2,7 @@
 
 Sharing projects using the Australian Government Design System.
 
-> Open a PR to add yours! 
+> Open a PR to include yours! 
 
 ## Government 
 
